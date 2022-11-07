@@ -1,0 +1,12 @@
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\bin\Debug\UnitConverter-TristanAldrinRafin.exe.config
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\bin\Debug\UnitConverter-TristanAldrinRafin.exe
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\bin\Debug\UnitConverter-TristanAldrinRafin.pdb
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\bin\Debug\UnitConverter-TristanAldrinRafin.xml
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\obj\Debug\UnitConverter-TristanAldrinRafin.vbproj.AssemblyReference.cache
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\obj\Debug\UnitConverter_TristanAldrinRafin.Form1.resources
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\obj\Debug\UnitConverter_TristanAldrinRafin.Resources.resources
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\obj\Debug\UnitConverter-TristanAldrinRafin.vbproj.GenerateResource.cache
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\obj\Debug\UnitConverter-TristanAldrinRafin.vbproj.CoreCompileInputs.cache
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\obj\Debug\UnitConverter-TristanAldrinRafin.exe
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\obj\Debug\UnitConverter-TristanAldrinRafin.xml
+C:\Users\racyn\source\repos\UnitConverter-TristanAldrinRafin\UnitConverter-TristanAldrinRafin\obj\Debug\UnitConverter-TristanAldrinRafin.pdb
